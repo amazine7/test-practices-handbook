@@ -1,3 +1,6 @@
+![AGV](https://img.shields.io/badge/Domain-AGV%20%2F%20AMR-blue)
+![Focus](https://img.shields.io/badge/Focus-Sustainable%20O%26M-green)
+![Status](https://img.shields.io/badge/Status-Actively%20Maintained-brightgreen)
 # test-practices-handbook-
 A practical guide and toolkit for robotics testing. Covers common industry pain points, FAQs, and proven solutions.
 
