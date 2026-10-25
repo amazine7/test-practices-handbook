@@ -8,8 +8,8 @@ A practical guide and toolkit for robotics testing. Covers common industry pain 
 This document outlines the standard implementation process for AGV (Automated Guided Vehicle) systems, covering site preparation through to project delivery.
 
 ## Scope
-- Brand experience: Huarui, Taske
-- Project scale: 13 AGVs at CATL large-scale warehousing & logistics project
+- Brand experience: XXX,XX
+- Project scale: 13 AGVs at XXXX large-scale warehousing & logistics project
 - Navigation: QR code + Laser
 
 ## Contents
